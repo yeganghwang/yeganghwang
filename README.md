@@ -1,5 +1,5 @@
 ## Hello!
-0x1A y.o
+0x1A y.o (2026)
 
 <h2 align="center">Interested in...</h2>
 <p align="center">
