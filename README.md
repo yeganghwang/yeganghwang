@@ -1,4 +1,6 @@
 # Hello!
+<img width="699" height="225" alt="Image" src="https://github.com/user-attachments/assets/4739eafa-e433-47ad-abd4-269645b6453a" />
+
 0x1A y.o
 
 Computer Science graduate focusing on the integration of hardware infrastructure and web applications. 
@@ -6,6 +8,8 @@ Computer Science graduate focusing on the integration of hardware infrastructure
 Technical foundation built on managing a self-hosted home lab environment using Synology NAS and Docker. Hands-on experience in physical infrastructure, encompassing custom system assembly, network cabling, and UPS configuration for system reliability and high availability.
 
 Ongoing expansion of the technical stack into full-stack web development and system automation. Dedicated to building stable, well-structured environments across both hardware and software layers.
+
+
 
 ## Tech Stack
 
